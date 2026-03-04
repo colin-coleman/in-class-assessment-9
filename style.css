@@ -21,7 +21,7 @@ opacity: 1.0;
   height: 300px;
   width:590px;
   border: 1.5px solid #020826;
-    border-radius: 20px;
+    border-radius: 20px 20px 0px 0px;
    border-bottom-style: none;
 }
 
