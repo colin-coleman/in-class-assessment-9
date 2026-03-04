@@ -10,13 +10,20 @@ html{
   color: #0d0d0d;
 }
 
+img{
+opacity: 1.0;
+   margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width:auto;
+  border: 1.5px solid #e16162;
+}
+
 .Image{
-  width: 200px;
-  margin: 10px auto;
+  text-align: center;
 }
 
 
 .Text{
-  width: 200px;
-  margin: 10px auto;
+  text-align: center;
 }
