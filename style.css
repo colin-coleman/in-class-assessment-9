@@ -37,3 +37,9 @@ opacity: 1.0;
   border: 1px solid #2a2a2a;
       border-radius: 10px;
 }
+
+h1 {
+   letter-spacing: 3px;
+   text-transform: uppercase;
+  color: #d9376e;
+}
