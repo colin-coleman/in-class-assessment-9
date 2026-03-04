@@ -16,20 +16,21 @@ html{
 }
 
 img{
+ 
 opacity: 1.0;
-   margin-left: auto;
-  margin-right: auto;
   height: 300px;
-  width:auto;
+  width:590px;
   border: 1.5px solid #020826;
-    border-radius: 10px;
+    border-radius: 20px;
+   border-bottom-style: none;
 }
 
 .Image{
-
+margin:-30px;
 }
 
 .Text{
+    padding:50px 25px 50px 25px;
  width: 540px;
   margin-left: auto;
   margin-right: auto;
@@ -44,6 +45,7 @@ h1 {
   color: #f25042;
    line-height: 1.5;
   font-size: 1.5rem;
+     margin-bottom: 1rem
 }
 
 .quote{
@@ -51,6 +53,7 @@ h1 {
    font-style: italic;
   text-transform: lowercase;
     line-height: 1.5;
+     margin-bottom: 1rem
 }
 
   .author{
@@ -60,3 +63,4 @@ h1 {
      line-height: 1.5;
   }
   
+
