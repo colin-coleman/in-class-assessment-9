@@ -42,6 +42,7 @@ h1 {
    letter-spacing: 3px;
    text-transform: uppercase;
   color: #f25042;
+   line-height: 1.5;
 }
 
 .quote{
@@ -49,11 +50,12 @@ h1 {
    font-style: italic;
   text-transform: lowercase;
     line-height: 1.5;
-  {
+}
 
   .author{
     font-weight: bold;
     font-size: 14px;
     color: #8c7851;
+     line-height: 1.5;
   }
   
