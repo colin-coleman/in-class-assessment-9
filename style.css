@@ -8,6 +8,8 @@ html{
   font-family: Arial, sans-serif;
   font-size: 20px;
   color: #0d0d0d;
+   text-align: center;
+  box-sizing: border-box;
 }
 
 img{
@@ -20,16 +22,9 @@ opacity: 1.0;
 }
 
 .Image{
-  text-align: center;
-    height: 500px;
-width: 500px;
-margin: 100px 100px;
+
 }
 
-
 .Text{
-  text-align: center;
-  height: 500px;
-width: 500px;
-margin: 100px 100px;
+  
 }
