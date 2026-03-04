@@ -43,3 +43,11 @@ h1 {
    text-transform: uppercase;
   color: #d9376e;
 }
+
+.quote{
+    font-size: 18px;
+   font-style: italic;
+  text-transform: lowercase;
+    line-height: 1.5;
+  {
+  
